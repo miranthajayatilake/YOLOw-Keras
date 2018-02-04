@@ -5,7 +5,7 @@ Credits goes to [YAD2K Library](https://github.com/allanzelener/YAD2K) on top of
 
 ![cover01](etc/cover01.jpg)
 ![cover02](etc/cover02.jpg)
-
+Note that I do not hold ownership to any of the above pictures. These are merely used for educational purposes to describe the concepts. 
 --------------------------------------------------------------------------------
 ## Thoughts on the implementation
 
@@ -18,7 +18,7 @@ A brief algorithm breakdown;
 - Perform Non-max suppression to refine the boxes more
 - Additionally anchor boxes are used to detect several objects in one grid cell
 
-### If you want to dive down into how these above points are implemented in the code refer yolo_eval function in the keras_yolo.py file from the yad2k/models directory.
+###### If you want to dive down into how these above points are implemented in the code refer yolo_eval function in the keras_yolo.py file from the yad2k/models directory.
 
 Paper reference: [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242) by Joseph Redmond and Ali Farhadi.
 
