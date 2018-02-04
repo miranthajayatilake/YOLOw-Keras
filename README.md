@@ -1,4 +1,4 @@
-# YOLOv2 Object Detection w/ Keras (just 20 lines of code)
+# YOLOv2 Object Detection w/ Keras (in just 20 lines of code)
 
 This repository presents a fast implementation of YOLOv2 object detection with just 20 LINES OF CODE using Keras library with Tensorflow backend.
 Credits goes to [YAD2K Library](https://github.com/allanzelener/YAD2K) on top of which this implementation was built. 
