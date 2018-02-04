@@ -5,7 +5,7 @@ Credits goes to [YAD2K Library](https://github.com/allanzelener/YAD2K) on top of
 
 ![cover01](etc/cover01.jpg)
 ![cover02](etc/cover02.jpg)
-Note that I do not hold ownership to any of the above pictures. These are merely used for educational purposes to describe the concepts. 
+###### Note that I do not hold ownership to any of the above pictures. These are merely used for educational purposes to describe the concepts. 
 --------------------------------------------------------------------------------
 ## Thoughts on the implementation
 
