@@ -28,6 +28,8 @@ The use of keras helps to understand the concepts underling a ML technique by re
 
 Also for anyone who is looking to integrate object detection capabilities in applications, this code can be incorperated with a few lines of code. 
 
+Blog post on this: https://medium.com/@miranthaj/quick-implementation-of-yolo-v2-with-keras-ebf6eb40c684
+
 --------------------------------------------------------------------------------
 
 ## Quick Start
