@@ -5,7 +5,6 @@ import scipy.io
 import scipy.misc
 import numpy as np
 from PIL import Image
-import image
 
 from keras import backend as K
 from keras.models import load_model
