@@ -64,7 +64,7 @@ print('Found {} boxes for {}'.format(len(out_boxes), input_image_name))
 colors = generate_colors(class_names)
 #Draw the bounding boxes
 draw_boxes(image, out_scores, out_boxes, out_classes, class_names, colors)
-#Apply the predicted bounding boxes to the image and save it in out/
+#Apply the predicted bounding boxes to the image and save it
 image.save(os.path.join("out", input_image_name), quality=90)
 output_image = scipy.misc.imread(os.path.join("out", input_image_name))
 imshow(output_image)
